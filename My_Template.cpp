@@ -88,7 +88,11 @@ int pow(int x, int y) {
 
 int main() {
     fastIO;
+     int t;
+    read(t); // Number of test cases
     
+    while (t--) {
+        // Take Inputs 
     
     
     return 0;
